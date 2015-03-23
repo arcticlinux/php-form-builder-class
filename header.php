@@ -33,7 +33,6 @@ function prettyprint($code) {
 				padding: 9px 0;
 			}
 		</style>
-		<link href="<?php echo $pathPrefix; ?>PFBC/Resources/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 		<link href="<?php echo $pathPrefix; ?>prettify/prettify.css" rel="stylesheet">
 
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

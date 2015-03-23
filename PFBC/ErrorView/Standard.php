@@ -43,7 +43,7 @@ JS;
                 $format = $size . " errors were";
 
 			echo <<<HTML
-			<div class="alert alert-error">
+			<div class="alert alert-danger">
 				<a class="close" data-dismiss="alert" href="#">×</a>
 				<strong class="alert-heading">The following $format found:</strong>
 				<ul><li>$errors</li></ul>
